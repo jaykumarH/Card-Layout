@@ -1,2 +1,2 @@
-# Card Layout 
-Card Layout using collection view
+# PaginationCollectionView
+Pagination in ios using collection view and custom page control
